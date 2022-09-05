@@ -5,5 +5,5 @@ Tugas 1: Membuat project hello world di Android Studio, lalu push ke repository 
 
 ## ScreenShoot hasil pengerjaan
 
-![Hasil Praktikum](screenshoot/ss02.jpeg)
+![Hasil Praktikum](screenshoot/ss01.png)
 ![](screenshoot/ss02.jpeg)
